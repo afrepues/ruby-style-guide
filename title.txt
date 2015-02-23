@@ -1,0 +1,9 @@
+---
+title: The Ruby Style Guide
+author: Bozhidar Batsov
+rights:  Creative Commons Attribution 3.0 Unported License
+language: en-US
+date: 2015-02-23
+subject: [programming, ruby programming language, style guide]
+...
+
